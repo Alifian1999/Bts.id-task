@@ -1,0 +1,11 @@
+.container-signIn{
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    width: 30%;
+    margin: auto;
+}
+
+#label-checkBox{
+    text-align: start;
+}
